@@ -1,0 +1,23 @@
+body {
+    
+    background-image : url(programming.jpg);
+    background-size: 2600px;
+    
+}
+p {
+    background-color: white;
+    width:200px;
+}
+h1{
+    background-color: white;
+    text-align: center;
+}
+img{
+    background-color: beige;
+    width:200px;
+    text-align: left;
+}
+video{
+    width:1080px;
+    margin-left:1200px;
+}
